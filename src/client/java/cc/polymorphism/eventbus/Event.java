@@ -4,7 +4,7 @@
  */
 package cc.polymorphism.eventbus;
 
-import chorus0.Chorus;
+import tsorf0.Tsorf;
 import lombok.Getter;
 import lombok.Setter;
 
@@ -26,7 +26,7 @@ public class Event {
     @SuppressWarnings("unchecked")
     public <T> T run() {
         try {
-            Chorus.getInstance().getEventManager().post(this);
+            Tsorf.getInstance().getEventManager().post(this);
         } catch (ConcurrentModificationException ignored) {}
 
         return (T) this;

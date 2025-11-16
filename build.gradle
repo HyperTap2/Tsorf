@@ -19,7 +19,7 @@ loom {
 	splitEnvironmentSourceSets()
 
 	mods {
-		"chorus" {
+		"tsorf" {
 			sourceSet sourceSets.main
 			sourceSet sourceSets.client
 		}
@@ -102,7 +102,7 @@ publishing {
 }
 
 loom {
-	accessWidenerPath = file('src/client/resources/chorus.accesswidener')
+	accessWidenerPath = file('src/client/resources/tsorf.accesswidener')
 }
 
 tasks.register('saveClassPathToFile') {

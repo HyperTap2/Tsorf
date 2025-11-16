@@ -1,15 +1,15 @@
 {
 	"schemaVersion": 1,
-	"id": "chorus",
+	"id": "tsorf",
 	"version": "1.0",
-	"name": "Chorus",
+	"name": "Tsorf",
 	"entrypoints": {
 		"main": [
-          "chorus0.Chorus"
+          "tsorf0.Tsorf"
 		]
 	},
 	"mixins": [
-		"chorus.mixins.json"
+		"tsorf.mixins.json"
 	],
 	"depends": {
 		"fabricloader": ">=0.16.2",
