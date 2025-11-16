@@ -78,5 +78,3 @@ public class BotRepository {
 
 }
 
-
-//~ Formatted by Jindent --- http://www.jindent.com

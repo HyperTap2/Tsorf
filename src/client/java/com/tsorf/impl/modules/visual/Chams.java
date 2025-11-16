@@ -15,5 +15,3 @@ import com.tsorf.api.module.ModuleInfo;
 )
 public class Chams extends BaseModule {}    /* handled in EntityRenderDispatcherMixin */
 
-
-//~ Formatted by Jindent --- http://www.jindent.com

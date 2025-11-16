@@ -14,5 +14,3 @@ public interface MouseHandlerAccessor {
     void press(long window, int button, int action, int mods);
 }
 
-
-//~ Formatted by Jindent --- http://www.jindent.com

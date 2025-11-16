@@ -43,5 +43,3 @@ public class ConcreteClientInfoProvider implements ClientInfoProvider {
     }
 }
 
-
-//~ Formatted by Jindent --- http://www.jindent.com

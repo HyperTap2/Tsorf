@@ -16,5 +16,3 @@ public interface ModuleProvider {
     List<Module> getModules();
 }
 
-
-//~ Formatted by Jindent --- http://www.jindent.com

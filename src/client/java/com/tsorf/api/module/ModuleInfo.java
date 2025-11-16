@@ -19,5 +19,3 @@ public @interface ModuleInfo {
     String suffix() default "";
 }
 
-
-//~ Formatted by Jindent --- http://www.jindent.com

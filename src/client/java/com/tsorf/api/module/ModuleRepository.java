@@ -29,5 +29,3 @@ public class ModuleRepository implements ModuleProvider {
     }
 }
 
-
-//~ Formatted by Jindent --- http://www.jindent.com

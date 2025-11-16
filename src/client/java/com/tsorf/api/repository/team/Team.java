@@ -38,5 +38,3 @@ public class Team {
     }
 }
 
-
-//~ Formatted by Jindent --- http://www.jindent.com

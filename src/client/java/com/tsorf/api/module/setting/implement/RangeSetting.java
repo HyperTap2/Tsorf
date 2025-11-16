@@ -75,5 +75,3 @@ public class RangeSetting<T extends Number & Comparable<T>> extends AbstractSett
     }
 }
 
-
-//~ Formatted by Jindent --- http://www.jindent.com

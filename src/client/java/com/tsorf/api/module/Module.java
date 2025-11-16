@@ -34,5 +34,3 @@ public interface Module {
     boolean isDraggable();
 }
 
-
-//~ Formatted by Jindent --- http://www.jindent.com

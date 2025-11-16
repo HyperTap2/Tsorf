@@ -16,5 +16,3 @@ public class ItemUseEvent extends Event {
     }
 }
 
-
-//~ Formatted by Jindent --- http://www.jindent.com

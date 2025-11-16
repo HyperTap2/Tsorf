@@ -52,5 +52,3 @@ public class SettingManager {
     }
 }
 
-
-//~ Formatted by Jindent --- http://www.jindent.com

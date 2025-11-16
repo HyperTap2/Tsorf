@@ -41,5 +41,3 @@ public class SettingRepository {
     }
 }
 
-
-//~ Formatted by Jindent --- http://www.jindent.com

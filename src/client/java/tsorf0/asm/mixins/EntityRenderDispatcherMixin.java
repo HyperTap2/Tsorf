@@ -37,5 +37,3 @@ public class EntityRenderDispatcherMixin {
 //    }
 }
 
-
-//~ Formatted by Jindent --- http://www.jindent.com

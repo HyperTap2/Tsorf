@@ -18,5 +18,3 @@ public class AttackEvent extends Event {
     }
 }
 
-
-//~ Formatted by Jindent --- http://www.jindent.com

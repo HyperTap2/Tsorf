@@ -19,5 +19,3 @@ public class PacketSendEvent extends Event {
     }
 }
 
-
-//~ Formatted by Jindent --- http://www.jindent.com

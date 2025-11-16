@@ -18,5 +18,3 @@ public class Friend {
     private final String name;
 }
 
-
-//~ Formatted by Jindent --- http://www.jindent.com

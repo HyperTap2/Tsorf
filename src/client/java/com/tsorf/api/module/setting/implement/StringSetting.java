@@ -40,6 +40,3 @@ public class StringSetting extends AbstractSetting<String> {
         this.value = value;
     }
 }
-
-
-//~ Formatted by Jindent --- http://www.jindent.com

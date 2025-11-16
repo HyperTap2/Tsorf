@@ -86,5 +86,3 @@ public class ClientConnectionMixin implements QuickImports {
     }
 }
 
-
-//~ Formatted by Jindent --- http://www.jindent.com

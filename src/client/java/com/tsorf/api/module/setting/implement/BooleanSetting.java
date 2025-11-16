@@ -33,5 +33,3 @@ public class BooleanSetting extends AbstractSetting<Boolean> {
     }
 }
 
-
-//~ Formatted by Jindent --- http://www.jindent.com

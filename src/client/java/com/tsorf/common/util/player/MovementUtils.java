@@ -148,5 +148,3 @@ public class MovementUtils {
     }
 }
 
-
-//~ Formatted by Jindent --- http://www.jindent.com

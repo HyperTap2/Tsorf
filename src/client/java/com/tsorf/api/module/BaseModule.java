@@ -115,6 +115,3 @@ public abstract class BaseModule implements Module {
         return isDraggable;
     }
 }
-
-
-//~ Formatted by Jindent --- http://www.jindent.com

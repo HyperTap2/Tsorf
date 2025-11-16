@@ -57,5 +57,3 @@ public class ModeSetting extends AbstractSetting<String> {
     }
 }
 
-
-//~ Formatted by Jindent --- http://www.jindent.com

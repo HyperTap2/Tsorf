@@ -58,5 +58,3 @@ public class NumberSetting<T extends Number & Comparable<T>> extends AbstractSet
     }
 }
 
-
-//~ Formatted by Jindent --- http://www.jindent.com

@@ -89,5 +89,3 @@ public class PlayerUtils {
     }
 }
 
-
-//~ Formatted by Jindent --- http://www.jindent.com

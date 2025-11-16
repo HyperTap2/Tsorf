@@ -73,6 +73,3 @@ public class MultiSetting extends AbstractSetting<Set<String>> {
         selectedModes = value;
     }
 }
-
-
-//~ Formatted by Jindent --- http://www.jindent.com

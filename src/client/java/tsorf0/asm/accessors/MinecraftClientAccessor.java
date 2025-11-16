@@ -14,5 +14,3 @@ public interface MinecraftClientAccessor {
     Mouse getMouse();
 }
 
-
-//~ Formatted by Jindent --- http://www.jindent.com

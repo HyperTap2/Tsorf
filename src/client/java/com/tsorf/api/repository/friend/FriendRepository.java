@@ -51,5 +51,3 @@ public class FriendRepository {
     }
 }
 
-
-//~ Formatted by Jindent --- http://www.jindent.com

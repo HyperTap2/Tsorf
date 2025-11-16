@@ -27,5 +27,3 @@ public class FireworkRocketEntityMixin implements QuickImports {
 
 }
 
-
-//~ Formatted by Jindent --- http://www.jindent.com

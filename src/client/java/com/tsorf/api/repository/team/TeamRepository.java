@@ -45,5 +45,3 @@ public class TeamRepository {
     }
 }
 
-
-//~ Formatted by Jindent --- http://www.jindent.com

@@ -36,5 +36,3 @@ public class ModuleSwitcher {
     }
 }
 
-
-//~ Formatted by Jindent --- http://www.jindent.com

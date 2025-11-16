@@ -91,5 +91,3 @@ public final class TimerUtils {
     }
 }
 
-
-//~ Formatted by Jindent --- http://www.jindent.com

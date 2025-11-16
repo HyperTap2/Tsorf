@@ -22,5 +22,3 @@ public interface ClientInfoProvider {
     String getFullInfo();
 }
 
-
-//~ Formatted by Jindent --- http://www.jindent.com

@@ -54,5 +54,3 @@ public class InGameHudMixin {
     }
 }
 
-
-//~ Formatted by Jindent --- http://www.jindent.com

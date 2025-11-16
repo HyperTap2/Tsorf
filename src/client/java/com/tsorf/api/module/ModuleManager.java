@@ -122,5 +122,3 @@ public class ModuleManager implements ModuleProvider {
 
 }
 
-
-//~ Formatted by Jindent --- http://www.jindent.com
